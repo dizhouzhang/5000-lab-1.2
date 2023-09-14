@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer eget aliquet nibh praesent tristique magna sit amet purus. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Justo nec ultrices dui sapien eget mi proin sed. Elementum facilisis leo vel fringilla est ullamcorper. Id diam vel quam elementum pulvinar. Pellentesque diam volutpat commodo sed. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Sit amet mauris commodo quis imperdiet massa. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper. Magna fermentum iaculis eu non diam phasellus. In aliquam sem fringilla ut morbi. Dictum varius duis at consectetur lorem donec massa. Sollicitudin aliquam ultrices sagittis orci.1\nId porta nibh venenatis cras sed felis eget. Massa vitae tortor condimentum lacinia quis vel eros donec ac. In cursus turpis massa tincidunt dui ut ornare lectus. Massa sed elementum tempus egestas sed sed risus. Nec ultrices dui sapien eget mi proin. Blandit massa enim nec dui nunc. Purus ut faucibus pulvinar elementum integer enim neque volutpat ac. Dignissim cras tincidunt lobortis feugiat vivamus. Non quam lacus suspendisse faucibus interdum posuere. Cras tincidunt lobortis feugiat vivamus. Enim blandit volutpat maecenas volutpat. Cum sociis natoque penatibus et magnis dis parturient montes nascetur. Risus pretium quam vulputate dignissim suspendisse. Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus.2\nNunc sed id semper risus in hendrerit gravida rutrum. Ultrices dui sapien eget mi proin sed libero enim. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Viverra accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Fusce id velit ut tortor pretium viverra suspendisse potenti. Orci eu lobortis elementum nibh tellus molestie. Suscipit tellus mauris a diam maecenas sed enim. Sed turpis tincidunt id aliquet risus feugiat in ante metus. At augue eget arcu dictum varius duis. Massa ultricies mi quis hendrerit dolor magna eget. Sapien eget mi proin sed libero enim sed faucibus. Pretium nibh ipsum consequat nisl vel pretium lectus quam. Proin sagittis nisl rhoncus mattis rhoncus. In dictum non consectetur a. Sed adipiscing diam donec adipiscing tristique risus nec feugiat in. 3\n\\[g(x)=x^n \\rightarrow \\frac{\\partial g}{\\partial x}=n x^{n-1}\\]\n‘&gt; This is a metro map’\nflowchart LR\n  A[crystal city] --&gt; B(pentagon city)\n  B --&gt; C{pentagon}\n  C --&gt; D[Arlington cemetry]\n  C --&gt; E[Rosslyn]\n\n\nA Mermaid diagram"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nthis is note1↩︎\nthis is note2↩︎\n@book{van2016data, title={Data science in action}, author={Van Der Aalst, Wil and van der Aalst, Wil}, year={2016}, publisher={Springer} }↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#getting-up",
+    "href": "slides/slides.html#getting-up",
+    "title": "Hobbies",
+    "section": "Getting up",
+    "text": "Getting up\nVan Der Aalst and Aalst (2016) says their code\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "slides/slides.html#going-to-class",
+    "href": "slides/slides.html#going-to-class",
+    "title": "Hobbies",
+    "section": "Going to class",
+    "text": "Going to class\n\nGet in class\nleave class"
+  },
+  {
+    "objectID": "slides/slides.html#going-to-sleep",
+    "href": "slides/slides.html#going-to-sleep",
+    "title": "Hobbies",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep\n\n\n\nCode\n# comment\n11+1\n\n\n12\n\n\n\n\n\n\n\n\n\nVan Der Aalst, Wil, and Wil van der Aalst. 2016. Data Science in Action. Springer."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Netus et malesuada fames ac turpis egestas. Fusce ut placerat orci nulla pellentesque dignissim enim. Eu augue ut lectus arcu bibendum at varius vel pharetra. At augue eget arcu dictum varius duis at consectetur. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Odio aenean sed adipiscing diam donec adipiscing tristique. Malesuada fames ac turpis egestas sed tempus. Ullamcorper morbi tincidunt ornare massa eget egestas purus. Ultrices neque ornare aenean euismod elementum nisi quis. Mauris sit amet massa vitae tortor condimentum lacinia quis vel. Sit amet nisl suscipit adipiscing bibendum est ultricies. Et tortor consequat id porta. Praesent tristique magna sit amet purus gravida quis. A lacus vestibulum sed arcu non. [^h1]\nPharetra convallis posuere morbi leo urna molestie at elementum eu. Maecenas pharetra convallis posuere morbi. Diam maecenas sed enim ut. Volutpat est velit egestas dui id ornare arcu odio ut. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et. Natoque penatibus et magnis dis parturient. Facilisi morbi tempus iaculis urna id. Fames ac turpis egestas sed tempus urna et. Purus sit amet volutpat consequat mauris nunc congue nisi vitae. Sollicitudin ac orci phasellus egestas tellus. Sapien eget mi proin sed libero enim sed. Eget aliquet nibh praesent tristique magna sit. Purus in massa tempor nec. In nulla posuere sollicitudin aliquam. Semper quis lectus nulla at volutpat diam ut venenatis tellus. Scelerisque mauris pellentesque pulvinar pellentesque habitant. Fringilla phasellus faucibus scelerisque eleifend. A arcu cursus vitae congue. Vitae proin sagittis nisl rhoncus mattis rhoncus urna. [^h2]\nTellus id interdum velit laoreet. Et netus et malesuada fames. Facilisis volutpat est velit egestas dui id ornare arcu odio. Ut sem nulla pharetra diam sit amet nisl suscipit. Viverra vitae congue eu consequat ac felis donec et odio. Sed ullamcorper morbi tincidunt ornare. Blandit aliquam etiam erat velit scelerisque in dictum non. Consequat interdum varius sit amet mattis vulputate enim nulla aliquet. Sed tempus urna et pharetra. Vel pretium lectus quam id leo in vitae turpis massa. At augue eget arcu dictum varius duis at consectetur. Ut etiam sit amet nisl. Diam vulputate ut pharetra sit amet aliquam id diam. Quis auctor elit sed vulputate mi sit amet mauris. Pellentesque dignissim enim sit amet venenatis urna cursus eget nunc. Velit ut tortor pretium viverra. Varius vel pharetra vel turpis nunc eget. Adipiscing diam donec adipiscing tristique risus nec feugiat. Condimentum lacinia quis vel eros donec. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. [^h3]\nUrna molestie at elementum eu facilisis sed odio morbi. Eget mauris pharetra et ultrices neque. Sed vulputate mi sit amet mauris. Nisi porta lorem mollis aliquam ut. Volutpat diam ut venenatis tellus in. Aliquam purus sit amet luctus. Tincidunt eget nullam non nisi est sit amet facilisis. Mus mauris vitae ultricies leo integer malesuada nunc vel. Neque laoreet suspendisse interdum consectetur libero id. Pretium quam vulputate dignissim suspendisse in est ante in nibh. Phasellus vestibulum lorem sed risus ultricies tristique. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Viverra maecenas accumsan lacus vel facilisis. Cursus in hac habitasse platea dictumst quisque sagittis. Consectetur libero id faucibus nisl tincidunt eget nullam non. Consectetur a erat nam at lectus urna duis convallis. Ac turpis egestas sed tempus urna.\n\n## my plot\nimport matplotlib.pyplot as plt\n\nplt.plot([1, 2, 3, 4], 'o-r')\nplt.ylabel('some numbers')\nplt.show()"
+  }
+]
